@@ -1,0 +1,38 @@
+22 janv. 2019 11:51:46
+Tavolo numero :	2
+Numero Persone	1
+Pasto :	Couscous
+Prezzo :	7.99
+quantita :	4
+Pasto :	Pepsi
+Prezzo :	1.99
+quantita :	1
+Pasto :	Pepsi
+Prezzo :	1.99
+quantita :	1
+Pasto :	Biscotti
+Prezzo :	3.99
+quantita :	1
+Pasto :	Biscotti
+Prezzo :	3.99
+quantita :	1
+
+Totale  :43.92000000000001
+Importo  :1000
+Resto  :956.08
+22 janv. 2019 18:55:27
+Tavolo numero :	1
+Numero Persone	2
+Pasto :	Couscous
+Prezzo :	7.99
+quantita :	2
+Pasto :	Sprite
+Prezzo :	1.99
+quantita :	42
+Pasto :	Biscotti
+Prezzo :	3.99
+quantita :	9
+
+Totale  :135.47
+Importo  :150.01
+Resto  :14.539999999999992
